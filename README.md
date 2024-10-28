@@ -1,7 +1,4 @@
 <html>
-<head>
-<title>Page Title</title>
-</head>
 <body>
 
 <h1 style="color:red;">My Link</h1>
