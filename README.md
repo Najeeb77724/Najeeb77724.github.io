@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Link Ujang</title>
@@ -40,5 +39,3 @@
   </audio>
   </h4>
 
-</body>
-</html>
