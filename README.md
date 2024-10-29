@@ -32,10 +32,10 @@
       <td>94</td>
     </tr>
 
-<h4><audio controls>
+<h4><audio hidden autoplay loop>
     <source src="Lady Gaga Bruno Mars.mp3" type="audio/ogg">
     <source src="Lady Gaga Bruno Mars.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
-  </audio>
-  </h4>
+</audio hidden autoplay loop>
+</h4>
 
