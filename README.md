@@ -80,13 +80,3 @@
 
 
 <div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;"> This web page is a part of a demonstration of fluid web design made by w3schools.com. Resize the browser window to see the content respond to the resizing.</div>
-
-
-    <h1><video width="320" height="240" autoplay>
-        <source src="badai.mp4" type="video/mp4">
-        <source src="badai.ogg" type="video/ogg">
-      Your browser does not support the video tag.
-      </video>
-    </h1>  
-</head>
-</html>
